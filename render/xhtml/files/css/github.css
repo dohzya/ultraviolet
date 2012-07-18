@@ -1,0 +1,136 @@
+pre.github {
+   color: #000000;
+   background-color: #F8F8FF;
+}
+pre.github .line-numbers {
+   background-color: #FFFFAA;
+   color: #000000;
+}
+pre.github .Comment {
+   color: #999988;
+   font-style: italic;
+}
+pre.github .CommentPreproc {
+   color: #999999;
+   font-weight: bold;
+}
+pre.github .CommentSpecial {
+   color: #999999;
+   font-weight: bold;
+}
+pre.github .Error {
+   color: #A61717;
+   background-color: #E3D2D2;
+}
+pre.github .Keyword {
+   font-weight: bold;
+}
+pre.github .Operator {
+   font-weight: bold;
+}
+pre.github .KeywordConstant {
+   font-weight: bold;
+}
+pre.github .KeywordType {
+   color: #445588;
+   font-weight: bold;
+}
+pre.github .NameAttribute {
+   color: #008080;
+}
+pre.github .NameBuiltin {
+   color: #0086B3;
+}
+pre.github .NameBuiltinPseudo {
+   color: #999999;
+}
+pre.github .NameClass {
+   color: #445588;
+   font-weight: bold;
+}
+pre.github .NameConstant {
+   color: #008080;
+}
+pre.github .NameEntity {
+   color: #800080;
+}
+pre.github .NameException {
+   color: #990000;
+}
+pre.github .NameFunction {
+   color: #990000;
+}
+pre.github .NameNamespace {
+   color: #555555;
+}
+pre.github .NameTag {
+   color: #000080;
+}
+pre.github .NameVariable {
+   color: #008080;
+}
+pre.github .LiteralNumber {
+   color: #009999;
+}
+pre.github .LiteralString {
+   color: #DD1144;
+}
+pre.github .LiteralStringRegex {
+   color: #009926;
+}
+pre.github .LiteralStringSymbol {
+   color: #990073;
+}
+pre.github .Punctuation {
+   font-weight: bold;
+}
+pre.github .GenericDeleted {
+   color: #000000;
+   background-color: #FFDDDD;
+}
+pre.github .GenericEmph {
+   font-style: italic;
+}
+pre.github .GenericError {
+   color: #AA0000;
+}
+pre.github .GenericHeading {
+   color: #999999;
+}
+pre.github .GenericInserted {
+   color: #000000;
+   background-color: #DDFFDD;
+}
+pre.github .GenericOutput {
+   color: #888888;
+}
+pre.github .GenericPrompt {
+   color: #555555;
+}
+pre.github .GenericStrong {
+   font-weight: bold;
+}
+pre.github .GenericSubheading {
+   color: #AAAAAA;
+}
+pre.github .GenericTraceback {
+   color: #AA0000;
+}
+pre.github .GenericUnderline {
+   text-decoration: underline;
+}
+pre.github .ExtraDiffRange {
+   color: #999999;
+   background-color: #EAF2F5;
+}
+pre.github .ExtraDiffFrom {
+   color: #999999;
+   background-color: #FFDDDD;
+}
+pre.github .ExtraDiffTo {
+   color: #999999;
+   background-color: #DDFFDD;
+}
+pre.github .ExtraLink {
+   color: #4183C4;
+}

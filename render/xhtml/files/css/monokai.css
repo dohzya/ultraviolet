@@ -1,0 +1,76 @@
+pre.monokai {
+   color: #F8F8F2;
+   background-color: #272822;
+}
+pre.monokai .line-numbers {
+   background-color: #49483E;
+   color: #FFFFFF;
+}
+pre.monokai .Comment {
+   color: #75715E;
+}
+pre.monokai .String {
+   color: #E6DB74;
+}
+pre.monokai .Number {
+   color: #AE81FF;
+}
+pre.monokai .BuiltInConstant {
+   color: #AE81FF;
+}
+pre.monokai .UserDefinedConstant {
+   color: #AE81FF;
+}
+pre.monokai .Variable {
+}
+pre.monokai .Keyword {
+   color: #F92672;
+}
+pre.monokai .Storage {
+   color: #F92672;
+}
+pre.monokai .StorageType {
+   color: #66D9EF;
+   font-style: italic;
+}
+pre.monokai .ClassName {
+   color: #A6E22E;
+   text-decoration: underline;
+}
+pre.monokai .InheritedClass {
+   color: #A6E22E;
+   font-style: italic;
+}
+pre.monokai .FunctionName {
+   color: #A6E22E;
+}
+pre.monokai .FunctionArgument {
+   color: #FD971F;
+   font-style: italic;
+}
+pre.monokai .TagName {
+   color: #F92672;
+}
+pre.monokai .TagAttribute {
+   color: #A6E22E;
+}
+pre.monokai .LibraryFunction {
+   color: #66D9EF;
+}
+pre.monokai .LibraryConstant {
+   color: #66D9EF;
+}
+pre.monokai .LibraryClassType {
+   color: #66D9EF;
+   font-style: italic;
+}
+pre.monokai .LibraryVariable {
+}
+pre.monokai .Invalid {
+   color: #F8F8F0;
+   background-color: #F92672;
+}
+pre.monokai .InvalidDeprecated {
+   color: #F8F8F0;
+   background-color: #AE81FF;
+}
