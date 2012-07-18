@@ -40,7 +40,7 @@ tags:
 - selector: variable.parameter
   begin: <span class="FunctionArgument">
   end: </span>
-- selector: entity.name.tag
+- selector: entity.name.tag, meta.tag, declaration.tag, entity.name.tag, entity.other.attribute-name
   begin: <span class="TagName">
   end: </span>
 - selector: entity.other.attribute-name
